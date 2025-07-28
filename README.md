@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou a Maria Amanda 👋</h1>
+<h1 align="center">Hi, I'm Maria Amanda 👋</h1>
 
 <p align="center">Sou estudante de Engenharia da Computação na UFPB, apaixonada por tecnologia e desenvolvimento.</p>
 
@@ -8,7 +8,7 @@
 ### 💼 Sobre mim:
 - 🎓 Estudante de **Engenharia da Computação** - UFPB  
 - 💡 Explorando as áreas de **desenvolvimento**, **automação** e **circuitos eletrônicos**  
-- 👩‍💻 Interesses em **C++**, **Python**, **Sistemas Embarcados** e **DevOps**  
+- 👩‍💻 Interesses em **C**, **C++** e **DevOps**  
 - 📚 Sempre aprendendo algo novo!
 
 ---
