@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Maria Amanda 👋</h1>
 
-<p align="center">Sou estudante de Engenharia da Computação na UFPB, apaixonada por tecnologia e desenvolvimento.</p>
+<p align="center">Computer Engineering Student - UFPB </p>
 
 ---
 
