@@ -7,7 +7,7 @@
 
 ### 💼 Sobre mim:
 - 🎓 Estudante de **Engenharia da Computação** - UFPB  
-- 💡 Explorando as áreas de **desenvolvimento**, **automação** e **circuitos eletrônicos**  
+- 💡 Explorando a área de **desenvolvimento**  
 - 👩‍💻 Interesses em **C**, **C++** e **DevOps**  
 - 📚 Sempre aprendendo algo novo!
 
