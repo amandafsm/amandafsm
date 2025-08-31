@@ -8,7 +8,7 @@
 ### 💼 Sobre mim:
 - 🎓 Estudante de **Engenharia da Computação** - UFPB  
 - 💡 Explorando a área de **desenvolvimento**  
-- 👩‍💻 Interesses em **C**, **C++** e **DevOps**  
+- 👩‍💻 Interesses em **C** e **C++**  
 - 📚 Sempre aprendendo algo novo!
 
 ---
