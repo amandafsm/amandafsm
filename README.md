@@ -8,12 +8,12 @@
 ### Sobre mim:
 -  Estudante de **Engenharia da Computação** - UFPB  
 -  Explorando a área de **desenvolvimento**  
-   Interesses em **C** e **C++**  
+- Interesses em **C** e **C++**  
 -  Sempre aprendendo algo novo!
 
 ---
 
-### 🛠️ Minhas Habilidades:
+###  Minhas Habilidades:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
