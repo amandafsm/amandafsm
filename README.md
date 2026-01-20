@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi, I'm Maria Amanda 👋</h1>
+<h1 align="center">Hi, I'm Maria Amanda </h1>
 
 <p align="center">Computer Engineering Student - UFPB </p>
 
 ---
 
-### 💼 Sobre mim:
-- 🎓 Estudante de **Engenharia da Computação** - UFPB  
-- 💡 Explorando a área de **desenvolvimento**  
-- 👩‍💻 Interesses em **C** e **C++**  
-- 📚 Sempre aprendendo algo novo!
+### Sobre mim:
+-  Estudante de **Engenharia da Computação** - UFPB  
+-  Explorando a área de **desenvolvimento**  
+   Interesses em **C** e **C++**  
+-  Sempre aprendendo algo novo!
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🌐 Redes sociais:
+###  Redes sociais:
 <p align="left">
   <a href="mailto:massilvaa21@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
