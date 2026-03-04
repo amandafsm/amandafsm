@@ -23,11 +23,3 @@
 </div>
 
 <br>
-
-### Estatísticas do GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandafsm&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Estatísticas da Amanda" />
-</div>
-
----
