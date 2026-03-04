@@ -1,6 +1,33 @@
+# Hi, I'm Maria Amanda 👋
 
-<h1 align="center">Hi, I'm Maria Amanda </h1>
+### Desenvolvedora Full Stack & Estudante de Engenharia da Computação - UFPB 
 
-<p align="center">Computer Engineering Student - UFPB </p>
+---
 
-Olá! Sou Maria Amanda, estudante de Engenharia da Computação na UFPB. Atuo como desenvolvedora Full Stack com foco em React, Node.js e Tailwind CSS, construindo soluções que geram impacto real, como plataformas de acessibilidade no SUS. Tenho forte interesse em segurança de software, com estudos aplicados em LGPD e Cibersegurança, além de experiência com integração de REST APIs.
+### Sobre mim
+
+- Atualmente desenvolvendo soluções tecnológicas para o SUS (como a plataforma **CER-FACIL**), focando em impacto real e acessibilidade.
+- Tenho experiência prática construindo projetos com **React.js, Node.js e Tailwind CSS**.
+- Enorme interesse na **Segurança de Software** e integração de **REST APIs**.
+
+---
+
+### Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
+
+<br>
+
+### Estatísticas do GitHub
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amandafsm&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Estatísticas da Amanda" />
+</div>
+
+---
