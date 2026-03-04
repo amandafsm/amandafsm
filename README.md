@@ -1,6 +1,6 @@
 # Hi, I'm Maria Amanda 👋
 
-### Desenvolvedora Full Stack & Estudante de Engenharia da Computação - UFPB 
+### Full Stack Developer & Computer Engineering Student - UFPB
 
 ---
 
