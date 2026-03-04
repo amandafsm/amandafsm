@@ -1,6 +1,6 @@
 # Hi, I'm Maria Amanda 👋
 
-### Full Stack Developer & Computer Engineering Student - UFPB
+### Full Stack Developer | Computer Engineering Student @ UFPB
 
 ---
 
