@@ -1,12 +1,12 @@
 # Hi, I'm Maria Amanda 👋
 
-### Full Stack Developer | Computer Engineering Student @ UFPB
+### Computer Engineering Student @ UFPB
 
 ---
 
 ### Sobre mim
 
-- Atualmente desenvolvendo soluções tecnológicas para o SUS (como a plataforma **CER-FACIL**), focando em impacto real e acessibilidade.
+- Atualmente desenvolvendo a plataforma **CER-FACIL**, focando em impacto real e acessibilidade.
 - Tenho experiência prática construindo projetos com **React.js, Node.js e Tailwind CSS**.
 - Enorme interesse na **Segurança de Software** e integração de **REST APIs**.
 
